@@ -1,0 +1,5 @@
+nama 	: Muhammad Fikri Ridwan
+nim	: A11.2019.11976
+
+mohon maaf kalau masih banyak yang salah, 
+dan ada beberapa code yang ngambil dari sumber lain.
